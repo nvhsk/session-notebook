@@ -31,3 +31,4 @@
 | git init                                        |  Mach mir aus diesem Ordner in dem ich mich befinde ein Git Repo. Ordner hat dann einen versteckten .git Ordner. |
 | git log --online                                |  Allgemeine Infos anzeigen, dann q drücken um aus diesem Modus raus zu kommen.                                   |
 | echo ".DS_Store" > .gitignore                   | Write something into a file, here into the gitignore file.                                                       |
+| code .                  | opens the folder in VSCode                                                       |
