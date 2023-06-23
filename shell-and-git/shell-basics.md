@@ -1,4 +1,29 @@
-<h1> Git Cheat Sheet </h1>
+<h1> Basic Shell commands </h1>
+
+| Git command | functionality |
+| ----------- | ------------- |
+
+| ls
+| list the content of the current directory |
+| ls -a  | um versteckte Ordner anzusehen |
+| cd <foldername> | change directory into a folder |
+| cd .. | change into the parent folder |
+| cd ~ | change into your home directory |
+| pwd | to see your current directory path |
+| touch example.md | create a file called "example.md" |
+| mkdir newFolder | create a folder called "newFolder" |
+| mv <oldname> <newname> | move or rename a file |
+| rm <filename> | delete a file permanently (there is no trash bin to recover files!) |
+| open . | open the current folder in the finder |
+| cat <filename> | prints the content of a specific file |
+| curl <url> | prints the received content from the specified url. (try curl ipinfo.io) |
+| git status | List all files that have changed and their state |
+| git add <filename> | Add a file to the stage |
+| git commit -m "add foo" | Create a commit including all staged files |
+| git log --oneline | Show the commit history |
+| git push | Upload content to the remote repository |
+| git pull | Download content from the remote repository |
+| tree | Übersicht von alles Dateien/Ordner |
 
 `git init`
 Mach mir aus diesem Ordner in dem ich mich befinde ein Git Repo.
