@@ -1,5 +1,5 @@
-<h1> VSCode commands </h1>
+# VSCode commands
 
-| Command                                     | functionality                                                                                                    |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| cmd + j                                              | öffnet das Terminal in VSCode                                                                       |
+| Command | Functionality                 |
+| ------- | ----------------------------- |
+| cmd + j | öffnet das Terminal in VSCode |
